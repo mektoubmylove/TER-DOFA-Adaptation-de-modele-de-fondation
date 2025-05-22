@@ -1,6 +1,6 @@
 TER 6: AISSAOUI Amine, ALLAIN Yanis
 
-#Contexte de l’étude
+###Contexte de l’étude
 Les modèles de fondation permettent l’apprentissage de représentations de données
 adaptables à un grand nombre de tâches. Cet apprentissage est généralement réalisé sur
 un grand nombre de données, souvent de manière auto-supervisée. Quelques exemples
@@ -14,7 +14,7 @@ vues lors de l’entrainement. Afin de résoudre ce problème Xiong et. al. ont 
 afin d’adapter les poids aux caractéristiques d’un capteur particulier.
 
 ![ArchiDOFA](assets/archigenerale.png)
-#Travail à réaliser
+###Travail à réaliser
 Les étudiants devront suivre les étapes suivantes:
 - Se familiariser avec le modèle et son utilisation
 - Reproduire les résultats obtenus par les auteurs sur un jeu de donnée 
