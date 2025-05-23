@@ -1,5 +1,5 @@
 ## DOFA_DETR.py
-Adaptation de dofa à la detection d'objet
+Adaptation de dofa à la detection d'objet (metrique + visualisation prédictions)
 
 
 ## DOFA_DETR_VISUALISATION.ipynb
